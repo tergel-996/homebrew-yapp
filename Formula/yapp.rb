@@ -1,8 +1,8 @@
 class Yapp < Formula
   desc "Yazi as a standalone macOS app with its own identity"
   homepage "https://github.com/tergel-996/yapp"
-  url "https://github.com/tergel-996/yapp/archive/refs/tags/v0.1.5.tar.gz"
-  sha256 "c66ee7f7e49bb01f8652979b9d1e301a3696ee4518ad17e6c7ebf55bbf08e258"
+  url "https://github.com/tergel-996/yapp/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "4589a0f46e967b7b0c0d58afe29d6cfaeba9c70a04805c7d9cf6004044ce0bce"
   license "MIT"
 
   depends_on "go" => :build
